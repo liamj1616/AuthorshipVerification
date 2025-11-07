@@ -1,0 +1,81 @@
+blogs/3522724.male.25.Banking.Cancer.xml
+- numPosts = 1052
+- BERT: normals: 285, anomalies: 241, accuracy: 54%
+- TD: normals = 340, anomalies: 186, accuracy: 64%
+
+blogs/313102.male.45.Internet.Pisces.xml
+- numPosts = 1018
+- BERT: normals: 104, anomalies: 405, accuracy: 20.4%
+- TD: normals: 150, anoamlies: 359, accuracy: 29%
+
+blogs/861706.male.24.indUnk.Sagittarius.xml
+- numPosts = 930
+- BERT: normals: 338, anomalies: 127, accuracy: 72.7%
+- TD: normals: 223, anomalies: 242, accuracy: 48%
+
+blogs/15365.female.34.indUnk.Cancer.xml
+- numPosts = 844
+- BERT: normals: 281, anomalies: 141, accuracy: 66.6%
+- TD: normals: 244, anomalies: 178, accuracy: 58%
+
+blogs/1119650.female.23.Student.Cancer.xml
+- numPosts = 733
+- BERT: normals: 197, anomalies: 173, accuracy: 50.3%
+- TD: normals: 200, anomalies: 167, accuracy: 54%
+
+blogs/2163386.male.26.Government.Taurus.xml
+- numPosts = 682
+- BERT: normals: 184, anomalies: 157, accuracy: 54%
+- TD: normals: 196, anomalies: 145, accuracy: 57%
+
+blogs/2297959.female.15.Student.Pisces.xml
+- numPosts = 667
+- BERT: normals: 138, anomalies: 196, accuracy: 41%
+- TD: normals: 144, anomalies: 190, accuracy: 34%
+
+blogs/3667467.male.24.Student.Taurus.xml
+- numPosts = 648
+- BERT: normals: 295, anomalies: 29, accuracy: 91%
+- TD: normals: 69, anomalies: 255, accuracy: 21%
+
+blogs/529513.male.33.Internet.Taurus.xml
+- numPosts = 642
+- BERT: normals: 135, anomalies: 186, accuracy = 42%
+- TD: normals: 157, anomalies: 164, accuracy = 49%
+
+blogs/2046767.female.16.indUnk.Aquarius.xml
+- numPosts = 627
+- BERT: normals: 123, anomalies: 191, accuracy: 39%
+- TD: normals: 143, anomalies: 171, accuracy: 46%
+
+blogs/642604.female.25.Student.Aries.xml
+- numPosts = 561
+- BERT: normals: 221, anomalies: 60, accuracy: 79%
+- TD: normals: 117, anomalies: 164, accuracy: 42%
+
+blogs/78196.female.35.indUnk.Aries.xml
+- numPosts = 511
+- BERT: normals: 88, anomalies: 168, accuracy: 34%
+- TD: normals: 117, anomalies: 139, accuracy: 48%
+
+blogs/585884.male.17.indUnk.Sagittarius.xml
+- numPosts = 503
+- BERT: normals: 116, anomalies = 136, accuracy: 46%
+- TD: normals: 110, anomalies = 142, accuracy: 44%
+
+blogs/535158.male.26.Law.Aquarius.xml
+- numPosts = 473
+- BERT: normals: 188, anomalies: 49, accuracy: 79%
+- TD: normals: 135, anomalies: 102, accuracy: 57%
+
+blogs/1461401.female.16.Student.Scorpio.xml
+- numPosts = 390
+- BERT: normals: 115, anomalies: 80, accuracy: 59%
+- TD: normals: 116, anomalies: 79, accuracy: 59%
+
+blogs/3611601.male.17.indUnk.Leo.xml
+- numPosts = 300
+- BERT: normals: 68, anomalies: 82, accuracy: 45%
+- TD: normals: 84, anomalies: 66, accuracy: 56%
+
+

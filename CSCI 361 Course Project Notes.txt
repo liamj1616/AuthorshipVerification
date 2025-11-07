@@ -1,0 +1,13 @@
+CSCI 361 Course Project Notes
+
+Pick embedding algorithm
+
+Average performance across authors
+
+Per author performance - why are some better than others
+
+50 - 50 split test split for author in question VS other authors
+
+Feed it thru either one class SVM or some sort clustering
+
+NOTE THAT WE GET MEMORY PROBLEMS AT A CERTAIN POINT
